@@ -28,4 +28,8 @@ sudo apt-get -y purge pyrit*
 
 sudo apt-get -y purge ophcrack*
 
+sudo apt-get -y purge wesnoth*
+
+sudo apt-get -y purge minetest*
+
 echo "Done uninstalling bad programs!"
